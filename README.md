@@ -1,4 +1,4 @@
-Hiya, I'm Marv
+Hiya!! I'm Marv😼
 
 
 Cybersecurity Engineer · Backend Developer · Network-curious
@@ -107,6 +107,6 @@ GitHub: github.com/mlikespizza
 If you’re into security, backend systems, or casual collabs — say hi! I’m open to internships, small freelance tasks, and friendly code reviews.
 
 
-~ Marv😼
+~ Marv
 
 
